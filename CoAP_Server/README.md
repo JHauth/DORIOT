@@ -34,7 +34,7 @@ All up, running the shell now
 
 get ip with ifconfig:
 
-> ifconfig
+
 ifconfig
 Iface  6  HWaddr: 3E:BD:A7:BD:32:06
           L2-PDU:1500 MTU:1500  HL:64  Source address length: 6
