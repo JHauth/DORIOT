@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/core/priority_queue.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/core/priority_queue.o: \
  /home/josh/RIOT/core/priority_queue.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/inttypes.h /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
@@ -36,7 +36,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/inttypes.h:
 

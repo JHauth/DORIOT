@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/core/ringbuffer.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/core/ringbuffer.o: \
  /home/josh/RIOT/core/ringbuffer.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/ringbuffer.h /usr/include/string.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
@@ -12,7 +12,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/ringbuffer.h:
 

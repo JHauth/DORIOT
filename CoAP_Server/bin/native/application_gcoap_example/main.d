@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/application_gcoap_example/main.o: \
- /home/josh/HiWi/Server_2/main.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/application_gcoap_example/main.o: \
+ /home/josh/HiWi/DORIOT/CoAP_Server/main.c /usr/include/stdc-predef.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/stdio.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
@@ -84,6 +84,7 @@
  /home/josh/RIOT/sys/include/net/gnrc/netreg.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif/conf.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/net/ieee802154.h \
  /home/josh/RIOT/sys/include/net/eui64.h \
  /home/josh/RIOT/sys/include/net/ethernet/hdr.h \
@@ -117,12 +118,11 @@
  /home/josh/RIOT/sys/include/net/sock/ip.h \
  /home/josh/RIOT/sys/include/net/nanocoap.h \
  /home/josh/RIOT/sys/include/net/coap.h \
- /home/josh/RIOT/sys/include/shell.h \
- /home/josh/RIOT/core/include/kernel_defines.h
+ /home/josh/RIOT/sys/include/shell.h
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/stdio.h:
 
@@ -364,6 +364,8 @@
 
 /home/josh/RIOT/sys/include/net/gnrc/netif/conf.h:
 
+/home/josh/RIOT/core/include/kernel_defines.h:
+
 /home/josh/RIOT/sys/include/net/ieee802154.h:
 
 /home/josh/RIOT/sys/include/net/eui64.h:
@@ -445,5 +447,3 @@
 /home/josh/RIOT/sys/include/net/coap.h:
 
 /home/josh/RIOT/sys/include/shell.h:
-
-/home/josh/RIOT/core/include/kernel_defines.h:

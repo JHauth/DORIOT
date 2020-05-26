@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_netif/gnrc_netif_raw.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_netif/gnrc_netif_raw.o: \
  /home/josh/RIOT/sys/net/gnrc/netif/gnrc_netif_raw.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/include/net/gnrc/pktbuf.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h /usr/include/stdlib.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
@@ -68,6 +68,7 @@
  /home/josh/RIOT/sys/include/net/gnrc/netapi.h \
  /home/josh/RIOT/sys/include/net/netopt.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif/conf.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/net/ieee802154.h \
  /home/josh/RIOT/sys/include/net/eui64.h \
  /home/josh/RIOT/sys/include/net/ethernet/hdr.h \
@@ -103,7 +104,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/pktbuf.h:
 
@@ -308,6 +309,8 @@
 /home/josh/RIOT/sys/include/net/netopt.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/netif/conf.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
 
 /home/josh/RIOT/sys/include/net/ieee802154.h:
 

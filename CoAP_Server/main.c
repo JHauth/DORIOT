@@ -22,7 +22,6 @@
 #include "msg.h"
 
 #include "net/gcoap.h"
-#include "kernel_types.h"
 #include "shell.h"
 
 #define MAIN_QUEUE_SIZE (4)
@@ -30,11 +29,9 @@ static msg_t _main_msg_queue[MAIN_QUEUE_SIZE];
 
 extern int gcoap_cli_cmd(int argc, char **argv);
 extern void gcoap_cli_init(void);
-extern int threadcounter(int argc, char **argv);
 
 static const shell_command_t shell_commands[] = {
     { "coap", "CoAP example", gcoap_cli_cmd },
-    { "threads", "number of running threads", threadcounter },
     { NULL, NULL, NULL }
 };
 

@@ -7,7 +7,6 @@
 #include "fmt.h"
 #include "hashes/sha256.h"
 #include "net/gcoap.h"
-#include "kernel_types.h"
 #include "/home/josh/RIOT/sys/include/od.h"
 
 // #ifdef MODULE_SOCK_DTLS
@@ -302,6 +301,11 @@ int gcoap_cli_cmd(int argc, char **argv) {
       goto end;
   }
 
+  if (strcmp(argv[1], "info") == 0) {
+      printf("CoAP server is listening on port %u\n", CONFIG_GCOAP_PORT);
+      return 0;
+  }
+
   //check for code
   int code_pos = -1;
   for (size_t i = 0; i < ARRAY_SIZE(method_codes); i++) {
@@ -313,10 +317,7 @@ int gcoap_cli_cmd(int argc, char **argv) {
       goto end;
   }
 
-  if (strcmp(argv[1], "info") == 0) {
-      printf("CoAP server is listening on port %u\n", CONFIG_GCOAP_PORT);
-      return 0;
-  }
+
 
   int apos = 2;               // position of address argument
   unsigned msg_type = COAP_TYPE_NON;
@@ -398,17 +399,4 @@ int gcoap_cli_cmd(int argc, char **argv) {
   printf("usage: %s <get|post|put|info>\n", argv[0]);
   return 1;
 
-}
-
-int threadcounter(int argc, char **argv){
-  if(argc<2){
-    int n = 0;
-    for (kernel_pid_t i = KERNEL_PID_FIRST; i <= KERNEL_PID_LAST; i++){
-      n++;
-    }
-    printf("Number or running threads is: %d\n", n);
-  } else {
-    printf("%s is not a valid input\n", argv[0]);
-  }
-  return 0;
 }

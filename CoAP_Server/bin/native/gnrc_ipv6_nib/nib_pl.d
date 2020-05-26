@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_nib/nib_pl.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_nib/nib_pl.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/nib_pl.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/assert.h \
  /home/josh/RIOT/core/include/panic.h \
  /home/josh/RIOT/core/include/kernel_defines.h \
@@ -18,6 +18,7 @@
  /usr/include/bits/_G_config.h /usr/include/bits/types/__mbstate_t.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/net/gnrc/ipv6/nib/pl.h \
  /home/josh/RIOT/sys/include/net/ipv6/addr.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h /usr/include/string.h \
@@ -98,7 +99,8 @@
  /home/josh/RIOT/sys/include/net/netif.h \
  /home/josh/RIOT/core/include/list.h \
  /home/josh/RIOT/sys/include/net/l2util.h \
- /home/josh/RIOT/sys/include/timex.h /home/josh/RIOT/sys/include/xtimer.h \
+ /home/josh/RIOT/sys/include/timex.h \
+ /home/josh/RIOT/sys/include/evtimer.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.h \
  /home/josh/RIOT/sys/include/bitfield.h \
  /home/josh/RIOT/sys/include/net/gnrc/ipv6.h \
@@ -129,7 +131,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/assert.h:
 
@@ -186,6 +188,8 @@
 /usr/include/bits/stdio_lim.h:
 
 /usr/include/bits/sys_errlist.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/ipv6/nib/pl.h:
 
@@ -409,7 +413,7 @@
 
 /home/josh/RIOT/sys/include/timex.h:
 
-/home/josh/RIOT/sys/include/xtimer.h:
+/home/josh/RIOT/sys/include/evtimer.h:
 
 /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.h:
 

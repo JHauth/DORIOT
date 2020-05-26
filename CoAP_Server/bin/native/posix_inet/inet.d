@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/posix_inet/inet.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/posix_inet/inet.o: \
  /home/josh/RIOT/sys/posix/inet/inet.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/posix/include/arpa/inet.h \
  /home/josh/RIOT/sys/include/net/af.h \
  /home/josh/RIOT/sys/posix/include/sys/bytes.h \
@@ -47,7 +47,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/posix/include/arpa/inet.h:
 

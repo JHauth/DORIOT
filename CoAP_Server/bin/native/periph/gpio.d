@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/periph/gpio.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/periph/gpio.o: \
  /home/josh/RIOT/cpu/native/periph/gpio.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/drivers/include/periph/gpio.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h \
@@ -16,7 +16,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/drivers/include/periph/gpio.h:
 

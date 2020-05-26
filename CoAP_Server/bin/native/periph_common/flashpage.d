@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/periph_common/flashpage.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/periph_common/flashpage.o: \
  /home/josh/RIOT/drivers/periph_common/flashpage.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/string.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
@@ -21,7 +21,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/string.h:
 

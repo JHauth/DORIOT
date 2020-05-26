@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/event/timeout.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/event/timeout.o: \
  /home/josh/RIOT/sys/event/timeout.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/include/event/timeout.h \
  /home/josh/RIOT/sys/include/event.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
@@ -47,7 +47,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/include/event/timeout.h:
 

@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/shell_commands/sc_sys.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/shell_commands/sc_sys.o: \
  /home/josh/RIOT/sys/shell/commands/sc_sys.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/stdio.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
@@ -22,7 +22,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/stdio.h:
 

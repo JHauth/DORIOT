@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_pkt/gnrc_pkt.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_pkt/gnrc_pkt.o: \
  /home/josh/RIOT/sys/net/gnrc/pkt/gnrc_pkt.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/include/net/gnrc/pkt.h /usr/include/inttypes.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
@@ -37,7 +37,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/pkt.h:
 

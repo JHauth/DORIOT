@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/hashes/hashes.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/hashes/hashes.o: \
  /home/josh/RIOT/sys/hashes/hashes.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/include/hashes.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h /usr/include/inttypes.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
@@ -13,7 +13,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/include/hashes.h:
 

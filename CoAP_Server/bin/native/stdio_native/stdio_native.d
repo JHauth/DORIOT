@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/stdio_native/stdio_native.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/stdio_native/stdio_native.o: \
  /home/josh/RIOT/cpu/native/stdio_native/stdio_native.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/kernel_defines.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
  /home/josh/RIOT/cpu/native/include/native_internal.h \
@@ -73,7 +73,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/kernel_defines.h:
 

@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/ipv6_addr/ipv6_addr.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/ipv6_addr/ipv6_addr.o: \
  /home/josh/RIOT/sys/net/network_layer/ipv6/addr/ipv6_addr.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/assert.h \
  /home/josh/RIOT/core/include/panic.h \
  /home/josh/RIOT/core/include/kernel_defines.h \
@@ -37,7 +37,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/assert.h:
 

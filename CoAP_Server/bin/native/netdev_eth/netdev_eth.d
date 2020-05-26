@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/netdev_eth/netdev_eth.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/netdev_eth/netdev_eth.o: \
  /home/josh/RIOT/drivers/netdev_eth/netdev_eth.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/assert.h \
  /home/josh/RIOT/core/include/panic.h \
  /home/josh/RIOT/core/include/kernel_defines.h \
@@ -49,7 +49,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/assert.h:
 

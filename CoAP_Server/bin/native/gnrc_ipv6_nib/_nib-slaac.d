@@ -1,18 +1,18 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_nib/_nib-slaac.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_nib/_nib-slaac.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-slaac.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
  /home/josh/RIOT/core/include/log.h /usr/include/stdio.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
  /usr/include/bits/long-double.h /usr/include/gnu/stubs.h \
- /usr/include/gnu/stubs-32.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/include/bits/types.h /usr/include/bits/typesizes.h \
- /usr/include/bits/types/__FILE.h /usr/include/bits/types/FILE.h \
- /usr/include/bits/libio.h /usr/include/bits/_G_config.h \
- /usr/include/bits/types/__mbstate_t.h \
+ /usr/include/gnu/stubs-32.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/libio.h \
+ /usr/include/bits/_G_config.h /usr/include/bits/types/__mbstate_t.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
  /home/josh/RIOT/sys/include/luid.h \
@@ -103,7 +103,8 @@
  /home/josh/RIOT/sys/include/net/l2util.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-6ln.h \
  /home/josh/RIOT/sys/include/net/sixlowpan/nd.h \
- /home/josh/RIOT/sys/include/timex.h /home/josh/RIOT/sys/include/xtimer.h \
+ /home/josh/RIOT/sys/include/timex.h \
+ /home/josh/RIOT/sys/include/evtimer.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-arsm.h \
  /home/josh/RIOT/sys/include/net/icmpv6.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.h \
@@ -137,7 +138,11 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
 
@@ -158,8 +163,6 @@
 /usr/include/gnu/stubs.h:
 
 /usr/include/gnu/stubs-32.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 
 /usr/include/bits/types.h:
 
@@ -427,7 +430,7 @@
 
 /home/josh/RIOT/sys/include/timex.h:
 
-/home/josh/RIOT/sys/include/xtimer.h:
+/home/josh/RIOT/sys/include/evtimer.h:
 
 /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-arsm.h:
 

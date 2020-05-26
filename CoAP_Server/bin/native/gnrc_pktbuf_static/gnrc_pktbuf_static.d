@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_pktbuf_static/gnrc_pktbuf_static.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_pktbuf_static/gnrc_pktbuf_static.o: \
  /home/josh/RIOT/sys/net/gnrc/pktbuf_static/gnrc_pktbuf_static.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/assert.h \
  /home/josh/RIOT/core/include/panic.h \
  /home/josh/RIOT/core/include/kernel_defines.h \
@@ -67,7 +67,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/assert.h:
 

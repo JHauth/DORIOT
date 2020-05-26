@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_nib/nib_abr.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_nib/nib_abr.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/nib_abr.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/stdio.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
@@ -13,6 +13,7 @@
  /usr/include/bits/types/__mbstate_t.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/net/gnrc/ipv6/nib/abr.h \
  /home/josh/RIOT/sys/include/net/ipv6/addr.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h /usr/include/string.h \
@@ -27,6 +28,7 @@
  /home/josh/RIOT/sys/include/net/sixlowpan/nd.h \
  /home/josh/RIOT/sys/include/net/eui64.h \
  /home/josh/RIOT/sys/include/timex.h /usr/include/inttypes.h \
+ /home/josh/RIOT/sys/include/evtimer.h \
  /home/josh/RIOT/sys/include/xtimer.h /home/josh/RIOT/sys/include/timex.h \
  /home/josh/RIOT/core/include/msg.h \
  /home/josh/RIOT/core/include/kernel_types.h \
@@ -88,7 +90,6 @@
  /home/josh/RIOT/sys/include/net/gnrc/netif/ipv6.h \
  /home/josh/RIOT/sys/include/evtimer_msg.h \
  /home/josh/RIOT/sys/include/evtimer.h \
- /home/josh/RIOT/sys/include/xtimer.h \
  /home/josh/RIOT/sys/include/net/ndp.h \
  /home/josh/RIOT/drivers/include/net/netdev.h /usr/include/errno.h \
  /usr/include/bits/errno.h /usr/include/linux/errno.h \
@@ -133,7 +134,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/stdio.h:
 
@@ -172,6 +173,8 @@
 /usr/include/bits/stdio_lim.h:
 
 /usr/include/bits/sys_errlist.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/ipv6/nib/abr.h:
 
@@ -212,6 +215,8 @@
 /home/josh/RIOT/sys/include/timex.h:
 
 /usr/include/inttypes.h:
+
+/home/josh/RIOT/sys/include/evtimer.h:
 
 /home/josh/RIOT/sys/include/xtimer.h:
 
@@ -374,8 +379,6 @@
 /home/josh/RIOT/sys/include/evtimer_msg.h:
 
 /home/josh/RIOT/sys/include/evtimer.h:
-
-/home/josh/RIOT/sys/include/xtimer.h:
 
 /home/josh/RIOT/sys/include/net/ndp.h:
 

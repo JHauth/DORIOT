@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/tinymt32/tinymt32.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/tinymt32/tinymt32.o: \
  /home/josh/RIOT/sys/random/tinymt32/tinymt32.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/random/tinymt32/tinymt32.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
@@ -14,7 +14,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/random/tinymt32/tinymt32.h:
 

@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/l2util/l2util.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/l2util/l2util.o: \
  /home/josh/RIOT/sys/net/link_layer/l2util/l2util.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/assert.h \
  /home/josh/RIOT/core/include/panic.h \
  /home/josh/RIOT/core/include/kernel_defines.h \
@@ -59,7 +59,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/assert.h:
 

@@ -1,19 +1,20 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_netif/gnrc_netif_device_type.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_netif/gnrc_netif_device_type.o: \
  /home/josh/RIOT/sys/net/gnrc/netif/gnrc_netif_device_type.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/errno.h /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
  /usr/include/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
- /usr/include/asm-generic/errno-base.h /home/josh/RIOT/core/include/log.h \
- /usr/include/stdio.h /usr/include/bits/libc-header-start.h \
+ /usr/include/asm-generic/errno-base.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/include/bits/types.h /usr/include/bits/typesizes.h \
- /usr/include/bits/types/__FILE.h /usr/include/bits/types/FILE.h \
- /usr/include/bits/libio.h /usr/include/bits/_G_config.h \
- /usr/include/bits/types/__mbstate_t.h \
+ /home/josh/RIOT/core/include/log.h /usr/include/stdio.h \
+ /usr/include/bits/libc-header-start.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/libio.h \
+ /usr/include/bits/_G_config.h /usr/include/bits/types/__mbstate_t.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
  /home/josh/RIOT/sys/include/net/ipv6.h \
@@ -108,7 +109,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/errno.h:
 
@@ -134,13 +135,15 @@
 
 /usr/include/asm-generic/errno-base.h:
 
+/home/josh/RIOT/core/include/kernel_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+
 /home/josh/RIOT/core/include/log.h:
 
 /usr/include/stdio.h:
 
 /usr/include/bits/libc-header-start.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 
 /usr/include/bits/types.h:
 

@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/ipv6_addr/ipv6_addr_to_str.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/ipv6_addr/ipv6_addr_to_str.o: \
  /home/josh/RIOT/sys/net/network_layer/ipv6/addr/ipv6_addr_to_str.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/inttypes.h /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
@@ -18,7 +18,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/inttypes.h:
 

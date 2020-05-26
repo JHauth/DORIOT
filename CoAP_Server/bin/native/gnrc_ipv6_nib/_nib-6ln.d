@@ -1,10 +1,11 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_nib/_nib-6ln.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_nib/_nib-6ln.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-6ln.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif/internal.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
@@ -112,7 +113,8 @@
  /home/josh/RIOT/sys/include/net/gnrc/ndp.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-6ln.h \
  /home/josh/RIOT/sys/include/net/sixlowpan/nd.h \
- /home/josh/RIOT/sys/include/timex.h /home/josh/RIOT/sys/include/xtimer.h \
+ /home/josh/RIOT/sys/include/timex.h \
+ /home/josh/RIOT/sys/include/evtimer.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-arsm.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.h \
  /home/josh/RIOT/sys/include/bitfield.h \
@@ -135,13 +137,15 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/netif/internal.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/netif.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 
@@ -443,7 +447,7 @@
 
 /home/josh/RIOT/sys/include/timex.h:
 
-/home/josh/RIOT/sys/include/xtimer.h:
+/home/josh/RIOT/sys/include/evtimer.h:
 
 /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-arsm.h:
 

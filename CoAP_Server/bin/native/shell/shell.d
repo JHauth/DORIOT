@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/shell/shell.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/shell/shell.o: \
  /home/josh/RIOT/sys/shell/shell.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/string.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
@@ -30,14 +30,22 @@
  /usr/include/bits/sysmacros.h /usr/include/bits/pthreadtypes.h \
  /usr/include/bits/thread-shared-types.h \
  /usr/include/bits/pthreadtypes-arch.h /usr/include/alloca.h \
- /usr/include/bits/stdlib-float.h /home/josh/RIOT/sys/include/shell.h \
+ /usr/include/bits/stdlib-float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /home/josh/RIOT/core/include/assert.h \
+ /home/josh/RIOT/core/include/panic.h \
+ /home/josh/RIOT/core/include/kernel_defines.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h \
+ /home/josh/RIOT/sys/include/shell.h \
  /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/shell_commands.h \
  /home/josh/RIOT/sys/include/shell.h
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/string.h:
 
@@ -150,6 +158,26 @@
 /usr/include/alloca.h:
 
 /usr/include/bits/stdlib-float.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+
+/home/josh/RIOT/core/include/assert.h:
+
+/home/josh/RIOT/core/include/panic.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
 
 /home/josh/RIOT/sys/include/shell.h:
 

@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_nib/nib_nc.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_nib/nib_nc.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/nib_nc.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/errno.h /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
@@ -68,6 +68,7 @@
  /usr/include/strings.h /home/josh/RIOT/core/include/byteorder.h \
  /home/josh/RIOT/sys/include/net/ipv4/addr.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif/conf.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/net/ieee802154.h \
  /home/josh/RIOT/sys/include/net/eui64.h \
  /home/josh/RIOT/sys/include/net/ethernet/hdr.h \
@@ -129,7 +130,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/errno.h:
 
@@ -332,6 +333,8 @@
 /home/josh/RIOT/sys/include/net/ipv4/addr.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/netif/conf.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
 
 /home/josh/RIOT/sys/include/net/ieee802154.h:
 

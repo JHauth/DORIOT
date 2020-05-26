@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_netif_hdr/gnrc_netif_hdr.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_netif_hdr/gnrc_netif_hdr.o: \
  /home/josh/RIOT/sys/net/gnrc/netif/hdr/gnrc_netif_hdr.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif/hdr.h /usr/include/errno.h \
  /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
@@ -17,6 +17,7 @@
  /usr/include/bits/typesizes.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif/internal.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/net/gnrc/netif.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
  /home/josh/RIOT/core/include/kernel_types.h /usr/include/inttypes.h \
@@ -105,7 +106,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/netif/hdr.h:
 
@@ -160,6 +161,8 @@
 /usr/include/bits/stdint-uintn.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/netif/internal.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
 
 /home/josh/RIOT/sys/include/net/gnrc/netif.h:
 

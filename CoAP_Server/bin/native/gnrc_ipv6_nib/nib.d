@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_nib/nib.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_nib/nib.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/nib.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/errno.h /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
@@ -9,13 +9,13 @@
  /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
  /usr/include/asm-generic/errno-base.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /home/josh/RIOT/core/include/log.h /usr/include/stdio.h \
- /usr/include/bits/libc-header-start.h \
+ /home/josh/RIOT/core/include/kernel_defines.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/include/bits/types.h /usr/include/bits/typesizes.h \
- /usr/include/bits/types/__FILE.h /usr/include/bits/types/FILE.h \
- /usr/include/bits/libio.h /usr/include/bits/_G_config.h \
- /usr/include/bits/types/__mbstate_t.h \
+ /home/josh/RIOT/core/include/log.h /usr/include/stdio.h \
+ /usr/include/bits/libc-header-start.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/libio.h \
+ /usr/include/bits/_G_config.h /usr/include/bits/types/__mbstate_t.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
  /home/josh/RIOT/sys/include/net/ipv6/addr.h /usr/include/string.h \
@@ -127,7 +127,6 @@
  /home/josh/RIOT/sys/include/net/gnrc/pktqueue.h \
  /home/josh/RIOT/sys/include/net/gnrc/sixlowpan/nd.h \
  /home/josh/RIOT/sys/include/net/gnrc/sixlowpan/config.h \
- /home/josh/RIOT/core/include/kernel_defines.h \
  /home/josh/RIOT/sys/include/net/sixlowpan/nd.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.h \
  /home/josh/RIOT/sys/include/bitfield.h \
@@ -136,7 +135,7 @@
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-arsm.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-router.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-6ln.h \
- /home/josh/RIOT/sys/include/xtimer.h \
+ /home/josh/RIOT/sys/include/evtimer.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-6lr.h \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-slaac.h \
  /home/josh/RIOT/core/include/debug.h \
@@ -144,7 +143,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/errno.h:
 
@@ -172,13 +171,15 @@
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
 
+/home/josh/RIOT/core/include/kernel_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+
 /home/josh/RIOT/core/include/log.h:
 
 /usr/include/stdio.h:
 
 /usr/include/bits/libc-header-start.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 
 /usr/include/bits/types.h:
 
@@ -478,8 +479,6 @@
 
 /home/josh/RIOT/sys/include/net/gnrc/sixlowpan/config.h:
 
-/home/josh/RIOT/core/include/kernel_defines.h:
-
 /home/josh/RIOT/sys/include/net/sixlowpan/nd.h:
 
 /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-internal.h:
@@ -496,7 +495,7 @@
 
 /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-6ln.h:
 
-/home/josh/RIOT/sys/include/xtimer.h:
+/home/josh/RIOT/sys/include/evtimer.h:
 
 /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/_nib-6lr.h:
 

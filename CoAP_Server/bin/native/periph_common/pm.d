@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/periph_common/pm.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/periph_common/pm.o: \
  /home/josh/RIOT/drivers/periph_common/pm.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/core/include/irq.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
  /home/josh/RIOT/drivers/include/periph/pm.h \
@@ -40,7 +40,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/core/include/irq.h:
 

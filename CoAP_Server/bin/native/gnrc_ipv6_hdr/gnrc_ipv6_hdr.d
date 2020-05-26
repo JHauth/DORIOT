@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_hdr/gnrc_ipv6_hdr.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_hdr/gnrc_ipv6_hdr.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/hdr/gnrc_ipv6_hdr.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /home/josh/RIOT/sys/include/net/ipv6/addr.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h /usr/include/string.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
@@ -71,7 +71,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /home/josh/RIOT/sys/include/net/ipv6/addr.h:
 

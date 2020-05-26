@@ -1,6 +1,6 @@
-/home/josh/HiWi/Server_2/bin/native/core/atomic_sync.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/core/atomic_sync.o: \
  /home/josh/RIOT/core/atomic_sync.c /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h /usr/include/stdlib.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
@@ -32,7 +32,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 

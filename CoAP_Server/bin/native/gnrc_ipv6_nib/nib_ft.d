@@ -1,7 +1,7 @@
-/home/josh/HiWi/Server_2/bin/native/gnrc_ipv6_nib/nib_ft.o: \
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/gnrc_ipv6_nib/nib_ft.o: \
  /home/josh/RIOT/sys/net/gnrc/network_layer/ipv6/nib/nib_ft.c \
  /usr/include/stdc-predef.h \
- /home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h \
+ /home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h \
  /usr/include/errno.h /usr/include/features.h /usr/include/sys/cdefs.h \
  /usr/include/bits/wordsize.h /usr/include/bits/long-double.h \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
@@ -25,7 +25,8 @@
  /usr/include/bits/wchar.h /usr/include/bits/stdint-intn.h \
  /usr/include/bits/stdint-uintn.h /usr/include/string.h \
  /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
- /usr/include/strings.h /home/josh/RIOT/sys/include/bitfield.h \
+ /usr/include/strings.h /home/josh/RIOT/core/include/kernel_defines.h \
+ /home/josh/RIOT/sys/include/bitfield.h \
  /home/josh/RIOT/sys/include/evtimer_msg.h \
  /home/josh/RIOT/core/include/msg.h \
  /home/josh/RIOT/core/include/kernel_types.h /usr/include/inttypes.h \
@@ -129,7 +130,7 @@
 
 /usr/include/stdc-predef.h:
 
-/home/josh/HiWi/Server_2/bin/native/riotbuild/riotbuild.h:
+/home/josh/HiWi/DORIOT/CoAP_Server/bin/native/riotbuild/riotbuild.h:
 
 /usr/include/errno.h:
 
@@ -208,6 +209,8 @@
 /usr/include/bits/types/__locale_t.h:
 
 /usr/include/strings.h:
+
+/home/josh/RIOT/core/include/kernel_defines.h:
 
 /home/josh/RIOT/sys/include/bitfield.h:
 
