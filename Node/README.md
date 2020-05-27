@@ -18,7 +18,7 @@ A simple RIOT server example
 
 5. Find out the ip address of the node in terminal 1:
 
-    > ifconfig
+    \> ifconfig
     ifconfig
     Iface  6  HWaddr: 3E:BD:A7:BD:32:06
               L2-PDU:1500 MTU:1500  HL:64  Source address length: 6
@@ -29,8 +29,8 @@ A simple RIOT server example
 
 6. Now you can send requests from the node in terminal 2:
 
-    > coap get fe80::3cbd:a7ff:febd:3206%6 5683 /string
+    \> coap get fe80::3cbd:a7ff:febd:3206%6 5683 /string
 
-    > coap looprequest fe80::3cbd:a7ff:febd:3206%6 5683 /string
+    \> coap looprequest fe80::3cbd:a7ff:febd:3206%6 5683 /string
 
-    > coap put fe80::3cbd:a7ff:febd:3206%6 5683 /string changed_string
+    \> coap put fe80::3cbd:a7ff:febd:3206%6 5683 /string changed_string
