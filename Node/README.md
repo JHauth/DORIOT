@@ -14,7 +14,7 @@ A simple RIOT server example
     $ PORT=tap0 make term
 
     Terminal 2:
-    $ PORT=tap1 make terms
+    $ PORT=tap1 make term
 
 5. Find out the ip address of the node in terminal 1:
 
